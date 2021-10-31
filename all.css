@@ -1,1 +1,21 @@
 *{font-family: 'Jua', sans-serif;}
+div{
+    vertical-align: middle;
+}
+
+img{
+    border-radius: 10%;
+}
+
+video{
+    border-radius: 7%;
+}
+
+h1{
+    color: white;
+}
+
+a{
+    color: white;
+
+}
